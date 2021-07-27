@@ -10,7 +10,7 @@ homepage:
 
 ---
 
-# **D**ongjin **S**eo
+# **Dongjin Seo**
 
 <!--
 include contact information from the front matter
