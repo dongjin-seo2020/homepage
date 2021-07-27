@@ -7,15 +7,9 @@ email:
 homepage:
   url: https://www.linkedin.com/in/seo-dongjin-66375878/
   text: linkedin
-homepage:
-  url: https://soundcloud.com/dongjin-seo-743442835
-  text: soundcloud
 
-  
 ---
-homepage:
-  url: https://github.com/dongjin-seo2020
-  text: github
+
 # **D**ongjin **S**eo
 
 <!--
