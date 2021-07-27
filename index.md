@@ -97,14 +97,16 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 [[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
 [[www](http://penrose.ink)]
 [[repo](https://github.com/penrose/penrose)]
--->
+
 ### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
 
 **Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
+-->
 ## Experience
 
+
+<!--
 ### **Microsoft Research** `2020.5 - 2020.8`
 
 _Research Intern_<br>
@@ -120,17 +122,19 @@ _Research Assistant_<br>
 _Research Assistant_<br>
 Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-## Mentoring
+-->
 
+## Mentoring
+<!--
 Hwei-Shin Harriman (Olin College of Engineering, independent research) `CMU, 2021` <br>
 Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 
 ---
-
+-->
 ## Honors & Awards
-
+<!--
 CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
 Phi Beta Kappa `Dickinson, 2018` <br>
 Excellence in Computer Science Award `Columbia, 2018` <br>
@@ -141,21 +145,21 @@ Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
 Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
-
+-->
 ## Teaching
-
+<!--
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
 Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
 Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
+-->
 
 ## Service
-
+<!--
 Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
 Reviewer `CHI 2021` <br>
 Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
-
+-->
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2021 -->
