@@ -160,6 +160,6 @@ Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
 Reviewer `CHI 2021` <br>
 Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
 -->
-<!-- ### Footer
+### Footer
 
-Last updated: July 2021 -->
+Last updated: July 2021
