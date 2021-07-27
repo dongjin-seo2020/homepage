@@ -24,35 +24,36 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Korea Advanced Institute of Science and Technology** `2021.2 -`
 
 ```
-Pittsburgh, PA
+Daejeon, South Korea
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Ph.D. in Electrical Engineering
+- Advised by [Changho Suh](http://csuh.kaist.ac.kr/)
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **Korea Advanced Institute of Science and Technology** `2019.2 - 2021.2`
 
 ```
-Carlisle, PA
+Daejeon, South Korea
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- M.S. in Electrical Engineering
+- Advised by [Minseok Jang](http://jlab.kaist.ac.kr/)
+- [Thesis](http://jlab.kaist.ac.kr/documents/team/dongjinseo_MS_thesis_2021_Spring.pdf)
+
+### **Korea Advanced Institute of Science and Technology** `2011.2 - 2019.2`
+
+```
+Daejeon, South Korea
+```
+
+- B.S. in Electrical Engineering
+- Semiconductors
 
 ## Publications
-
+<!--
 ### **reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
 _In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21), to appear._ <br>
@@ -96,7 +97,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 [[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
 [[www](http://penrose.ink)]
 [[repo](https://github.com/penrose/penrose)]
-
+-->
 ### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
 
 **Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
