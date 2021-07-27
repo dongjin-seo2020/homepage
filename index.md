@@ -1,12 +1,19 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Dongjin Seo
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: dongjin.seo@kaist.ac.kr
+  text: dongjin.seo@kaist.ac.kr
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://www.linkedin.com/in/seo-dongjin-66375878/
+  text: linkedin
+homepage:
+  url: https://soundcloud.com/dongjin-seo-743442835
+  text: soundcloud
+homepage:
+  url: https://github.com/dongjin-seo2020
+  text: github
+  
 ---
 
 # Wode **Ni**
