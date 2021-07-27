@@ -10,13 +10,13 @@ homepage:
 homepage:
   url: https://soundcloud.com/dongjin-seo-743442835
   text: soundcloud
+
+  
+---
 homepage:
   url: https://github.com/dongjin-seo2020
   text: github
-  
----
-
-# Wode **Ni**
+# **D**ongjin **S**eo
 
 <!--
 include contact information from the front matter
