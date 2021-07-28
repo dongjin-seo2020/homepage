@@ -12,8 +12,6 @@ homepage:
 
 # **Dongjin Seo**
 
-![seo](./image/Screenshot_20210722-112617_YouTube Music.jpg)
-
 <!--
 include contact information from the front matter
 Supported arguments:
@@ -23,6 +21,7 @@ Supported arguments:
 -->
 
 
+![](./image/Screenshot_20210722-112617_YouTube Music.jpg)
 
 {% include cv-contact.html %}
 
