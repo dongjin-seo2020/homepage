@@ -20,6 +20,8 @@ Supported arguments:
     - email
 -->
 
+![seo](./image/sample.jpg)
+
 {% include cv-contact.html %}
 
 ## Education
