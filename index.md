@@ -20,7 +20,7 @@ Supported arguments:
     - email
 -->
 
-![seo](./image/sample.jpg)
+![seo](./image/Screenshot_20210722-112617_YouTube Music.jpg)
 
 {% include cv-contact.html %}
 
