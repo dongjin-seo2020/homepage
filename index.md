@@ -21,7 +21,10 @@ Supported arguments:
 -->
 
 
-![](./image/Screenshot_20210722-112617_YouTube Music.jpg)
+<p align="center">
+<img src="image/env.png" width="700">
+</p>
+
 
 {% include cv-contact.html %}
 
