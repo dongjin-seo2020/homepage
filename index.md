@@ -63,8 +63,9 @@ Daejeon, South Korea
 ## Publications
 
 ### **Structural optimization of 1D freeform metagrating deflector via deep reinforcement learning**
-**Dongjin Seo**, Daniel Wontae Nam, Juho Park, Chan Y. Park, and Min Seok Jang.<br>
+**Dongjin Seo**, Daniel Wontae Nam, Juho Park, Chan Y. Park, and Min Seok Jang.
 _ACS Photonics 2021, under review_
+
 <!--
 ### **reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
