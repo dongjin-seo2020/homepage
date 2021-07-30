@@ -22,7 +22,7 @@ Supported arguments:
 
 
 <p align="center">
-<img src="image/profile.png" width="400">
+<img src="image/profile.jpeg" width="400">
 </p>
 
 
