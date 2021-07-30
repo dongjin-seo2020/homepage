@@ -31,7 +31,7 @@ Hi. I am Dongjin Seo, a student @[KAIST EE](https://ee.kaist.ac.kr). I have a dr
 
 ## Education
 
-### **Korea Advanced Institute of Science and Technology** `2021.2 -`
+### **Korea Advanced Institute of Science and Technology** `2021.9 -`
 
 ```
 Daejeon, South Korea
