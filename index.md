@@ -22,7 +22,7 @@ Supported arguments:
 
 
 <p align="center">
-<img src="image/profile.jpeg" width="100">
+<img src="image/profile.jpeg" width="200">
 </p>
 
 
@@ -47,6 +47,7 @@ Daejeon, South Korea
 
 - M.S. in Electrical Engineering
 - Advised by [Minseok Jang](http://jlab.kaist.ac.kr/)
+- Research Interest: 
 - [Thesis](http://jlab.kaist.ac.kr/documents/team/dongjinseo_MS_thesis_2021_Spring.pdf)
 
 ### **Korea Advanced Institute of Science and Technology** `2011.2 - 2019.2`
@@ -59,6 +60,10 @@ Daejeon, South Korea
 - Semiconductors
 
 ## Publications
+
+### **Structural optimization of 1D freeform metagrating deflector via deep reinforcement learning**
+**Dongjin Seo**, Daniel Wontae Nam, Juho Park, Chan Y. Park, and Min Seok Jang.<br>
+_ACS Photonics 2021_
 <!--
 ### **reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
