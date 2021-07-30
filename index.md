@@ -27,7 +27,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-Hi. I am Dongjin Seo, a student @[KAIST EE](https://ee.kaist.ac.kr). I have a dream of contributing to the world in any way(academic or industrial, etc.) to make it a better space. My research interest is mostly based on application of Machine Learning and Machine learning thoery itself. I enjoy my life by playing the piano, especially with my taste on **Jazz**. [Take a look!](https://soundcloud.com/dongjin-seo-743442835). 
+Hi. I am Dongjin Seo, a student @[KAIST EE](https://ee.kaist.ac.kr). I have a dream of contributing to the world in any way(academic or industrial, etc.) to make it a better space. My research interest is mostly based on application of Machine Learning and Machine Learning theory itself. I enjoy my life by playing the piano, especially with my taste on **Jazz**. [Take a look!](https://soundcloud.com/dongjin-seo-743442835) 
 
 ## Education
 
