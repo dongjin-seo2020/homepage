@@ -61,7 +61,7 @@ Daejeon, South Korea
 ```
 
 - B.S. in Electrical Engineering
-- Semiconductors
+- Special Interest in **Semiconductor Technology** (All A's acquired from the subject)
 
 ## Publications
 
