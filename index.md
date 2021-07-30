@@ -74,9 +74,6 @@ Sanmun Kim, ... **Dongjin Seo**, ... Chan Y. Park, and Min Seok Jang.
 _Advanced Optical Mateirals, under review_
 
 <!--
-### **reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21), to appear._ <br>
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
@@ -179,6 +176,11 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 -->
 
 ## Service
+
+Korea Military Service '2014.8 - 2016.5'
+_AUxilliary Police_
+
+
 <!--
 Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
 Reviewer `CHI 2021` <br>
