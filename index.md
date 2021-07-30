@@ -5,8 +5,8 @@ email:
   url: dongjin.seo@kaist.ac.kr
   text: dongjin.seo@kaist.ac.kr
 homepage:
-  url: https://www.linkedin.com/in/seo-dongjin-66375878/
-  text: linkedin
+  url: https://github.com/dongjin-seo2020
+  text: GitHub
 
 ---
 
