@@ -123,11 +123,11 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ## Experience
 
-### **2020 Venture Research Program for Master’s and PhD Students in the College of Engineering** '2020.5~2020.12'
+### **2020 Venture Research Program for Master’s and PhD Students in the College of Engineering** `2020.5~2020.12`
 Subject: _Inverse Design of Manufacturable 2D Polarization Conversion Plasmonic Metasurface Using Electromagnetic Simulation and Reinforcement Learning_
 As the first and a main contributor
 
-### **KC ML2** '2021.2 - 2021.8'
+### **KC ML2** `2021.2 - 2021.8`
 
 _Research Resident_
 Worked with [ML2 team](https://www.kc-ml2.com/?gclid=CjwKCAjwxo6IBhBKEiwAXSYBs69gYzkNCl6JRq55vhYAVfQKp_MfvDtBOExd7rzzJ9RapZ97ftr9dRoCpgIQAvD_BwE) to perform many interesting ML studies!
@@ -161,10 +161,10 @@ Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/r
 -->
 ## Honors & Awards
 
-### **Exemplary Soldier Award** '2016.5'
+### **Exemplary Soldier Award** `2016.5`
 Guard of Government Complex Daejeon
 
-### **Best Paper Award** Horonable Mention '2017.9'
+### **Best Paper Award** Horonable Mention `2017.9`
 KAIST School of Humaninites & Social Sciences
 
 
@@ -190,7 +190,7 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 ## Service
 
-### Korea Military Service '2014.8 - 2016.5'
+### Korea Military Service `2014.8 - 2016.5`
 _AUxilliary Police_
 
 
