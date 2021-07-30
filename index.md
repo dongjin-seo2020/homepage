@@ -69,6 +69,7 @@ _ACS Photonics 2021, under review_
 ### **Inverse design of organic light-emitting diode structure based on deep neural networks**
 Sanmun Kim, ... **Dongjin Seo**, ... Chan Y. Park, and Min Seok Jang
 _Advanced Optical Mateirals, under review_
+
 <!--
 ### **reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
