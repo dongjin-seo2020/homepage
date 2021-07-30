@@ -27,7 +27,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-Hi. I am Dongjin Seo, a student @[KAIST EE](https://ee.kaist.ac.kr). I have a dream of contributing to the world in any way(academic or industrial, etc.) to make it a better space. My research interest is mostly based on application of Machine Learning and Machine Learning theory itself. I enjoy my life by playing the piano, especially with my taste on **Jazz**. [Take a look!](https://soundcloud.com/dongjin-seo-743442835) 
+Hi. I am Dongjin Seo, a student @[KAIST EE](https://ee.kaist.ac.kr). I have a dream of contributing to the world in any way(academic or industrial) to make it a better place. My research interest is mostly based on **application of Machine Learning** and **Machine Learning theory** itself. From my Bachelor and Master degree, I also got a great interest on **semiconductor** and **photonics**, respectively. I sometimes enjoy my life by playing the piano, especially with my taste on **Jazz**. [Take a look!](https://soundcloud.com/dongjin-seo-743442835) 
 
 ## Education
 
@@ -48,7 +48,10 @@ Daejeon, South Korea
 
 - M.S. in Electrical Engineering
 - Advised by [Minseok Jang](http://jlab.kaist.ac.kr/)
-- Research Interest: 
+- What I performed: 
+  1. optimization of metasurface structure based on Reinforcement Learning
+  2. prediction of optical device behavior via Machine Learning
+  3. design of PCB board for optical experiments with Si substrate
 - [Thesis](http://jlab.kaist.ac.kr/documents/team/dongjinseo_MS_thesis_2021_Spring.pdf)
 
 ### **Korea Advanced Institute of Science and Technology** `2011.2 - 2019.2`
