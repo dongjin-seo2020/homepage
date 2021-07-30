@@ -27,7 +27,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-Hi. I am Dongjin Seo, a student
+Hi. I am Dongjin Seo, a student @[KAIST EE](https://ee.kaist.ac.kr). 
 
 ## Education
 
