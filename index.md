@@ -125,6 +125,10 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 -->
 ## Experience
 
+### **KC ML2** '2021.2 - 2021.8'
+
+_Research Resident_
+Worked with [ML2 team](https://www.kc-ml2.com/?gclid=CjwKCAjwxo6IBhBKEiwAXSYBs69gYzkNCl6JRq55vhYAVfQKp_MfvDtBOExd7rzzJ9RapZ97ftr9dRoCpgIQAvD_BwE)
 
 <!--
 ### **Microsoft Research** `2020.5 - 2020.8`
