@@ -25,8 +25,9 @@ Supported arguments:
 <img src="image/profile.jpeg" width="200">
 </p>
 
-
 {% include cv-contact.html %}
+
+Hi. I am Dongjin Seo, a student
 
 ## Education
 
@@ -63,7 +64,7 @@ Daejeon, South Korea
 
 ### **Structural optimization of 1D freeform metagrating deflector via deep reinforcement learning**
 **Dongjin Seo**, Daniel Wontae Nam, Juho Park, Chan Y. Park, and Min Seok Jang.<br>
-_ACS Photonics 2021_
+_ACS Photonics 2021, under review_
 <!--
 ### **reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
