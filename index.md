@@ -27,7 +27,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-Hi. I am Dongjin Seo, a student @[KAIST EE](https://ee.kaist.ac.kr). 
+Hi. I am Dongjin Seo, a student @[KAIST EE](https://ee.kaist.ac.kr). I have a dream to contribute to the world in any way(academic or industrial, etc.) to make it a better space. My research interest is mostly based on application of Machine Learning and Machine learning thoery itself. I enjoy my life by playing the [jazz piano](https://soundcloud.com/dongjin-seo-743442835). 
 
 ## Education
 
@@ -67,7 +67,7 @@ Daejeon, South Korea
 _ACS Photonics 2021, under review_
 
 ### **Inverse design of organic light-emitting diode structure based on deep neural networks**
-Sanmun Kim, ... **Dongjin Seo**, ... Chan Y. Park, and Min Seok Jang
+Sanmun Kim, ... **Dongjin Seo**, ... Chan Y. Park, and Min Seok Jang.
 _Advanced Optical Mateirals, under review_
 
 <!--
