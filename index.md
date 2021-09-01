@@ -22,7 +22,7 @@ Supported arguments:
 
 
 <p align="center">
-<img src="image/profile.jpeg" width="200">
+<img src="image/profile.jpg" width="200">
 </p>
 
 {% include cv-contact.html %}
