@@ -111,4 +111,4 @@ KAIST School of Humaninites & Social Sciences
 ## Service
 
 ### Korea Military Service `2014.8 - 2016.5`
-_AUxilliary Police_
+_Auxilliary Police_
