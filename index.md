@@ -127,8 +127,11 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 ## Experience
 
+### **SK hynix Internship** `2018.6~2018.8`
+Subject: _NAND Flash Device research in QLC Device Team_
+
 ### **2020 Venture Research Program for Master’s and PhD Students in the College of Engineering** `2020.5~2020.12`
-Subject: _Inverse Design of Manufacturable 2D Polarization Conversion Plasmonic Metasurface Using Electromagnetic Simulation and Reinforcement Learning_
+Subject: _Inverse Design of Manufacturable 2D Polarization Conversion Plasmonic Metasurface Using Electromagnetic Simulation and Reinforcement Learning_,
 As the first and a main contributor
 
 ### **KC ML2** `2021.2 - 2021.8`
