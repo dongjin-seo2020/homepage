@@ -12,15 +12,6 @@ homepage:
 
 # Dongjin Seo
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
-
-
 <p align="center">
 <img src="image/profile.jpg" width="200">
 </p>
