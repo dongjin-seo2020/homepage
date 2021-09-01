@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: homepage
 title: Dongjin Seo
 email:
   url: dongjin.seo@kaist.ac.kr
