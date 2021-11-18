@@ -22,18 +22,7 @@ Hi. I am Dongjin Seo, a student @[KAIST EE](https://ee.kaist.ac.kr). I have a dr
 
 ## Education
 
-### **Korea Advanced Institute of Science and Technology** `2021.9 -`
 
-```
-Daejeon, South Korea
-```
-
-- Ph.D. in Electrical Engineering
-- Academic Advisor: [Changho Suh](http://csuh.kaist.ac.kr/)
-- Research Interest:
-  1. Explaninable AI
-  2. Fair Learning
-  3. Meta Learning
 
 ### **Korea Advanced Institute of Science and Technology** `2019.2 - 2021.2`
 
@@ -66,7 +55,7 @@ _ACS Photonics 2021, under review_
 
 ### **Inverse design of organic light-emitting diode structure based on deep neural networks**
 Sanmun Kim, ... **Dongjin Seo**, ... Chan Y. Park, and Min Seok Jang.
-_Nanophotonics 2021, under review_
+_Nanophotonics 2021_
 
 <!--
 
